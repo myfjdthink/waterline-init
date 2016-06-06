@@ -17,4 +17,3 @@ BuildWaterLine.buildORM('testMongodb', {migrate: 'drop'}, function (err, models)
     })
 })
 ```
-
