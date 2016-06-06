@@ -1,11 +1,8 @@
 {
-  "name": "waterline-initializer",
+  "name": "waterline-init",
   "version": "1.0.0",
   "description": "initialize waterline without sails",
   "main": "index.js",
-  "scripts": {
-    "build": "babel src -d lib"
-  },
   "keywords": [
     "waterline",
     "initialize",
@@ -13,10 +10,6 @@
   ],
   "author": "myfjdthink",
   "license": "ISC",
-  "devDependencies": {
-    "babel-cli": "^6.9.0",
-    "babel-preset-es2015": "^6.9.0"
-  },
   "dependencies": {
     "lodash": "^4.13.1",
     "sails-mongo": "^0.12.0",
