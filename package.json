@@ -8,6 +8,10 @@
     "initialize",
     "sails"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:myfjdthink/waterline-init.git"
+  },
   "author": "myfjdthink",
   "license": "ISC",
   "dependencies": {

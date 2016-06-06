@@ -4,3 +4,4 @@
 var builder = require('./lib/builder');
 
 module.exports.buildORM = builder.buildORM
+module.exports.setModels = builder.setModels
